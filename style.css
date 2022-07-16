@@ -1,0 +1,13 @@
+div{
+    color: #00f;
+    background-color: #f00;
+    height: 30vh;
+    width: 15vw;
+    font-size: 15px;
+    font-weight: 800;
+    padding: 10px 40px 10px;
+    font-family: 'Cairo', sans-serif;
+    border: 5px solid black;
+    box-sizing: border-box; 
+
+}
